@@ -17,6 +17,7 @@ $servidor = "127.0.0.1";
 
 
 	//Seleciona o id da tabela usuário através de uma query
+	//Altere o ID AQUI 
 	$id = "14";
 	$result_usuario = "SELECT * FROM usuario WHERE id = '$id' LIMIT 1";
 	$resultado_usuario = mysqli_query($conn, $result_usuario);	
