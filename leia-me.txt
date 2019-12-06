@@ -1,0 +1,7 @@
+Gerador de Certificado
+
+Para acessar o PDF é necessário acessar a seguinte url
+
+GeradorCertificado/mpdf/index.php
+
+É necessário alterar também o ID do banco no código!
